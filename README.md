@@ -16,8 +16,8 @@ No algoritmo, descreva como será:
 # Resposta
 
 ## Utilizando a linguagem JavaScript eu criaria as variaveis dessa maneira
-## Let Nome = "José Almeida da Silva"  < - Tipo String
-## Let CPF = "123.456.789.00" < - Tipo String
-## Let RG = "9517530" < - Tipo String
-## Let Altura = 1,78 < - Tipo Float
-## Let Endereço: "Rua A, 380 - Centro - Recife/PE" < - Tipo String
+## Let Nome = "José Almeida da Silva"
+## Let CPF = "123.456.789.00" 
+## Let RG = "9517530" 
+## Let Altura = 1,78 
+## Let Endereço: "Rua A, 380 - Centro - Recife/PE"
